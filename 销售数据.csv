@@ -1,0 +1,10 @@
+date,order_id,product_id,product,brand,category_code,price,quantity,revenue,user_id,age,sex,local
+2024-03-08 04:47,ORD001,P1409,iPhone 14,Apple,electronics.smartphones,4899.0,3,14697.0,U10004,31,F,深圳市
+2024-03-14 01:01,ORD002,P9935,iPhone 14,Apple,electronics.smartphones,4899.0,1,4899.0,U10010,27,M,重庆市
+2024-03-20 00:35,ORD003,P4582,iPhone 14,Apple,electronics.smartphones,4899.0,2,9798.0,U10009,33,F,西安市
+2024-03-15 18:17,ORD004,P9928,ThinkPad X1 Carbon,Lenovo,electronics.laptops,10999.0,4,43996.0,U10004,31,F,深圳市
+2024-03-09 04:13,ORD005,P3615,iPhone 15,Apple,electronics.smartphones,5999.0,4,23996.0,U10006,38,M,南京市
+2024-03-04 11:54,ORD006,P2674,iPad Air,Apple,electronics.tablets,4399.0,1,4399.0,U10007,26,F,成都市
+2024-03-18 03:59,ORD007,P5333,iPad Air,Apple,electronics.tablets,4399.0,1,4399.0,U10008,29,M,武汉市
+2024-03-27 20:39,ORD008,P2291,Mi Watch,Xiaomi,electronics.wearables,799.0,5,3995.0,U10005,42,M,杭州市
+2024-03-22 07:49,ORD009,P4150,iPad Air,Apple,electronics.tablets,4399.0,1,4399.0,U10001,28,M,北京市
